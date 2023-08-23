@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Khyl Naera</h1>
+<h1 align="center">Hi 👋, I'm Khyl Navera</h1>
 <h3 align="center">A passionate Student from St. Clare College of Caloocan</h3>
 
 
